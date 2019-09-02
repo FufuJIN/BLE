@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/DATA_STOP"
+        android:title="@string/Stop" />
+    <item
+        android:id="@+id/DATA_BEGIN"
+        android:title="@string/begin" />
+    <item
+        android:id="@+id/clean_database"
+        android:title="@string/CLEAN_DATABASE" />
+</menu>

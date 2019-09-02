@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BLE</string>
+    <string name="btn_openble">打开蓝牙</string>
+    <string name="unknown_device">unknown_device</string>
+    <string name="btn_connect">搜索蓝牙</string>
+    <string name="text_deviceaddress">DeviceAddress</string>
+    <string name="states">states</string>
+    <string name="data">Data</string>
+    <string name="unknown_service">unknown_service</string>
+    <string name="unknown_characteristic">unknown_characteristic</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">disconnected</string>
+    <string name="no_data">no_data</string>
+    <string name="send_data">发送</string>
+    <string name="edit_text">输入发送内容</string>
+    <string name="send_state">发送状态</string>
+    <string name="SPO2">SPO2</string>
+    <string name="PR">PR</string>
+    <string name="create_table">创建数据库</string>
+    <string name="Stop">Stop</string>
+    <string name="begin">Begin</string>
+    <string name="CLEAN_DATABASE">清除数据库</string>
+</resources>
